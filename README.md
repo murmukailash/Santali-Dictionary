@@ -20,7 +20,7 @@ Welcome to the Santali Dictionary project by Kailash Murmu. This project aims to
 
 ### Prerequisites
 
-- Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+- Ensure you have a web server environment set up on your machine. This could be any server software, such as Apache, Nginx, Node.js, or others, depending on your project's requirements.
 
 ### Installation
 
