@@ -1,0 +1,74 @@
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    text-align: right;
+  }
+  
+  #myLinks {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out; /* Animation for opening and closing */
+  }
+  
+  .topnav a {
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    display: block;
+    text-align: left;
+  }
+  
+  .topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0; /* Changed to right */
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .container {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .bar1, .bar2, .bar3 {
+    width: 20px;
+    height: 2px;
+    background-color: #fff;
+    margin: 5px 0;
+    transition: 0.4s;
+  }
+  
+  .change .bar1 {
+    transform: translate(0, 7px) rotate(-45deg); /* 11 */
+  }
+  
+  .change .bar2 {opacity: 0;}
+  
+  .change .bar3 {
+    transform: translate(0, -7px) rotate(45deg); /* -11 */
+  }
+
+  @media (max-width: 767px) {
+    .menu {
+display: none;
+      }
+  }
+
+  @media (min-width: 768px) {
+    .topnav, #myLinks {
+display: none;
+      }
+  }

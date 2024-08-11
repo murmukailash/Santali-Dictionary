@@ -1,0 +1,605 @@
+.headimg {
+  padding-top: 12px;
+  }
+header {
+  text-align: center;
+  background-color: red;
+  color: white;
+ border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+
+}
+
+.banana {
+  height: 100%;
+}
+
+body {
+
+padding: 0;
+margin: 0;
+}
+
+#santali,
+#sanresults,
+#english,
+#enresults {
+  text-align: center;
+}
+
+#loadMoreBtn,
+#loadMoreSanBtn,
+#loadMoreGsBtn,
+#loadMoreAllSanBtn,
+#loadMoreSrchGsBtn {
+  margin-top: 10px;
+  height: 40px;
+  width: 80%;
+  color: #fff;
+  background-color: red;
+  border: solid #fff 1px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#loadMoreEngBtn,
+#loadMoreEnBtn,
+#loadMoreGeBtn,
+#loadMoreAllEnBtn,
+#loadMoreSrchGeBtn {
+  margin-top: 10px;
+  height: 40px;
+  width: 80%;
+  color: #fff;
+  background-color: #398a0af6;
+  border: solid #fff 1px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#loadMoreBtn:hover,
+#loadMoreSanBtn:hover,
+#loadMoreGsBtn:hover,
+#loadMoreAllSanBtn:hover,
+#loadMoreSrchGsBtn:hover {
+  color: red;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  width: 85%;
+  border: solid red 1px;
+}
+
+#loadMoreEngBtn:hover,
+#loadMoreEnBtn:hover,
+#loadMoreGeBtn:hover,
+#loadMoreAllEnBtn:hover,
+#loadMoreSrchGeBtn:hover {
+  color: #398a0af6;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  width: 85%;
+  border: solid #398a0af6 1px;
+}
+
+span {
+  margin: 3px;
+}
+.menu {
+  background-color: black;
+  padding: 10px;
+
+}
+
+button {
+  padding: 5px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 15px;
+}
+.stbtn {
+  background-color: darkgreen;
+}
+.etbtn {
+  background-color: blue;
+}
+.flowers {
+  white-space: nowrap; /* Prevents the flowers from wrapping */
+  overflow: hidden; /* Hides extra flowers */
+  display: block; /* Ensures the div behaves as a block element */
+  text-align: center;
+}
+
+@media (max-width: 600px) { /* Adjust the max-width as needed for your design */
+  .flowers {
+      max-width: 100%; /* Limits the width on smaller screens */
+  }
+}
+
+.worddiv {
+  text-align: center;
+  background-color: #f7f7f7;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#sanresults .worddiv:hover, #santali .worddiv:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border: solid #ff5100 1px;
+}
+
+#enresults .worddiv:hover, #english .worddiv:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border: solid blue 1px;
+}
+
+#oresults { 
+  text-align: center;
+}
+
+.terimg {
+border-radius: 5px;
+}
+
+.terimg:hover {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+}
+
+p.pdescribe {
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+  border: solid #ddd 1px;
+  border-radius: 5px;
+  margin: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p.pdescribe:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.meaning {
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+  border: solid red 1px;
+  border-radius: 5px;
+  margin: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.meaning:hover {
+  color: #fff;
+  background-color: red;
+  margin: 0px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+audio {
+  border-radius: 20px;
+}
+
+.example {
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+  border: solid blue 1px;
+  border-radius: 5px;
+  margin: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#searchbox, #search {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.example:hover {
+  background-color: blue;
+  color: #fff;
+  margin: 0px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+h2.tophead {
+  text-align: center;
+  color: white;
+  background-image: url("/assets/other/leafbanana.png");
+  background-size: 70% 100%;
+  height: 105px;
+  background-position: center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+h2.santali {
+  text-align: center;
+  color: white;
+  background-image: url("/assets/other/omleaf.png");
+  background-size: 100% 100%;
+  background-position: center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: self-start;
+}
+
+h2.english {
+  text-align: center;
+  color: white;
+  background-image: url("/assets/other/omleaf.png");
+  background-size: 100% 100%;
+  background-position: center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: self-start;
+}
+
+h3.sanht {
+  margin: auto;
+  color: white;
+  background-image: url("/assets/other/santalileaf.png");
+  background-size: 100% 100%;
+  background-position: center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+h3.enght {
+  margin: auto;
+  color: white;
+  background-image: url("/assets/other/englishleaf.png");
+  background-size: 100% 100%;
+  background-position: center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.menu a {
+  text-decoration: none;
+  padding: 3px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  ruby-position: absolute;
+  margin-top: auto;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+background: linear-gradient(0deg, rgb(0, 183, 255), white);
+  color: black;
+  border-bottom-left-radius: 4px;
+border-bottom-right-radius: 4px;
+}
+.footerdiv {
+  background-image: url("/assets/other/footer.png");
+  background-size: 100% 100%;
+  background-position: center;
+ background-repeat: no-repeat;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+
+div.table {
+  overflow-x: auto;
+}
+table {
+  width: 100%;
+      /* border-collapse: collapse; */
+    white-space: nowrap;
+}
+td {
+  background-color: yellow;
+  border: 1px solid black;
+  box-shadow: 0 20px 5px rgba(0, 0, 0, 0.2);
+}
+
+form#emailForm {
+    max-width: 400px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label.contactForm {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input.contactForm,
+textarea.contactForm, button.contactForm {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button.contactForm {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+button.contactForm:hover {
+    background-color: darkgreen;
+}
+
+div.searchDiv {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* You can add more styles based on your design preferences */
+form#searchform {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+input[type="text"], input[type="submit"] {
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+input[type="text"] {
+    flex: 3;
+    margin-right: 5px; /* Adjust as needed */
+}
+
+input[type="submit"] {
+  background-color: yellow;
+  color: black;
+  border: black solid 1.5px;
+  border-radius: 3px;
+    flex: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+input[type="submit"]:hover {
+  background-color: red;
+  color: white;
+  border: black solid 1px;
+  border-radius: 3px;
+    flex: 0;
+}
+
+
+div#sanresults, div#enresults {
+  display: none;
+}
+
+.selected {
+    background-color: red; 
+    color : white;
+  }
+  
+  .line-container {
+  position: relative;
+  width: 100%; /* Set width to 100% for full width */
+  height: 100px;
+  margin: 50px auto;
+}
+
+.svg-line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* Set width to 100% for full width */
+  height: 100%;
+}
+
+.flag {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 20px solid; /* Inverted triangle */
+}
+
+/* Styles for desktop flag*/
+        @media (min-width: 768px) {
+.flag-1 { left: 5%; bottom: 24px; border-top-color: #f00; transform: rotate(13deg); }
+.flag-7 { left: 12.5%; bottom: 18.5px; border-top-color: #ffff00; transform: rotate(11deg); }
+.flag-2 { left: 20%; bottom: 13.7px; border-top-color: #ff9900; transform: rotate(8.5deg); }
+.flag-8 { left: 27%; bottom: 10.5px; border-top-color: #00ff00; transform: rotate(7deg); }
+.flag-3 { left: 35%; bottom: 7.88px; border-top-color: #00ffff; transform: rotate(4.5deg); }
+.flag-9 { left: 42%; bottom: 6.5px; border-top-color: #0000ff; transform: rotate(2deg); }
+.flag-4 { left: 50%; bottom: 6.5px; border-top-color: #00ff00; transform: rotate(0deg); }
+.flag-10 { left: 57.5%; bottom: 7.35px; border-top-color: #ffff00; transform: rotate(-3.5deg); }
+.flag-5 { left: 65%; bottom: 9px; border-top-color: #00ffff; transform: rotate(-5deg); }
+.flag-11 { left: 72.5%; bottom: 12.5px; border-top-color: #f00; transform: rotate(-7.3deg); }
+.flag-6 { left: 80%; bottom: 16.5px; border-top-color: #0000ff; transform: rotate(-9deg); }
+.flag-12 { left: 87%; bottom: 21.5px; border-top-color: #ff9900; transform: rotate(-11.5deg); }
+        }
+        
+       /* Styles for mobile */
+       @media (max-width: 767px) {
+          .flag-1 { left: 5%; bottom: 19.5px; border-top-color: #f00; transform: rotate(26deg); }
+.flag-7 { left: 12.5%; bottom: 15px; border-top-color: #ffff00; transform: rotate(25deg); }
+.flag-2 { left: 20%; bottom: 10.7px; border-top-color: #ff9900; transform: rotate(18.5deg); }
+.flag-8 { left: 27%; bottom: 8px; border-top-color: #00ff00; transform: rotate(14deg); }
+.flag-3 { left: 35%; bottom: 6.4px; border-top-color: #00ffff; transform: rotate(8deg); }
+.flag-9 { left: 42%; bottom: 6px; border-top-color: #0000ff; transform: rotate(3deg); }
+.flag-4 { left: 50%; bottom: 5.86px; border-top-color: #00ff00; transform: rotate(-10.flag-5deg); }
+.flag-10 { left: 57.5%; bottom: 7.5px; border-top-color: #ffff00; transform: rotate(-8.5deg); }
+.flag-5 { left: 65%; bottom: 10px; border-top-color: #00ffff; transform: rotate(-11deg); }
+.flag-11 { left: 72.5%; bottom: 13.4px; border-top-color: #f00; transform: rotate(-17deg); }
+.flag-6 { left: 80%; bottom: 18px; border-top-color: #0000ff; transform: rotate(-25deg); }
+.flag-12 { left: 87%; bottom: 23px; border-top-color: #ff9900; transform: rotate(-29deg); }
+        }
+        
+  /* Styles for desktop */
+        @media (min-width: 768px) {
+            .desktop-only {
+                display: block;
+            }
+            .mobile-only {
+                display: none;
+            }
+
+            h2.santali {
+              padding-top: 80px;
+              height: 150px;
+              width: 130px;
+            }
+
+            h2.english {
+              padding-top: 80px;
+              height: 150px;
+              width: 130px;
+            }
+
+            .footerdiv {
+              height: 250px;
+            }
+
+            audio {
+              width: 50%;
+            }
+
+            /* h3.sanht {
+              height: 150px;
+              width: 325px;
+            }
+            */
+
+            h3.sanht {
+              height: 100px;
+              width: 265px;
+            }
+
+           /* h3.enght {
+              height: 150px;
+              width: 325px;
+            }
+           */
+           
+            h3.enght {
+              height: 100px;
+              width: 265px;
+            }
+
+           .pujakalas {
+              width: 60%;
+              }
+
+              .sinpujakalas {
+                width: 40%;
+                }
+
+              .topkalas {
+                height: 100px;
+              }
+
+              .terimg {
+                width: 95%;
+              }
+              .terimg:hover {
+                width: 100%;
+              }
+              .photolink {
+                width: 45%;
+                margin: auto;
+                padding-right: 2px;
+              }
+              .inresdiv {
+                width: 55%;
+              }
+              .worddiv {
+                display: flex;
+                padding: 5px;
+              }
+        }
+
+        /* Styles for mobile */
+        @media (max-width: 767px) {
+            .desktop-only {
+                display: none;
+            }
+
+            .mobile-only {
+                display: block;
+            }
+
+            h2.santali {
+              padding-top: 50px;
+              height: 110px;
+              width: 90px;
+            }
+
+            h2.english {
+              padding-top: 50px;
+              height: 110px;
+              width: 90px;
+            }
+
+            .footerdiv {
+              height: 150px;
+            }
+
+            audio {
+              width: 85%;
+            }
+
+            
+            h3.sanht {
+              font-size: small;
+              height: 60px;
+              width: 130px;
+            }
+
+            h3.enght {
+              font-size: small;
+              height: 60px;
+              width: 130px;
+            }
+
+            .pujakalas {
+              width: 45px;
+              }
+
+              .sinpujakalas {
+                width: 50px;
+                }
+
+              .title {
+                font-size: 25px;
+              }
+
+              .topkalas {
+                margin: auto;
+                height: 45px;
+              }
+
+              .terimg {
+                height: 100%;
+                width: 100%;
+              }
+              .worddiv {
+                padding: 10px;
+              }
+        }
+  
+#advert {
+  display: flex;
+  text-align: center;
+}

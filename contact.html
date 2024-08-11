@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+     <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("j81EESPs_SmJYBrfq");
+   })();
+</script>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="menu.css">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+<header>
+  <div style="display: flex; justify-content: center;">
+    <div>
+    <img class="banana" src="/assets/other/baby-banana.png">
+  </div>
+  <div class="headimg">
+  <img src="/assets/other/vinayagar-png-images.png" style="height: 100%;">
+</div>
+<div>
+<img class="banana" src="/assets/other/baby-banana.png">
+</div>
+</div>
+<div style="display: flex; justify-content: center; text-align: center;">
+  <div class="topkalas">
+    <img src="/assets/other/poojakalaash.png">
+  </div>
+    <h1 class="title">Santali Dictionary</h1>
+    <div class="topkalas">
+      <img src="/assets/other/poojakalaash.png">
+    </div>
+  </div>
+    <div class="menu">
+<span><a href="index.html">Home</a></span> |
+<span><a href="santali.html">Santali</a></span> |
+<span><a href="english.html">English</a></span> |
+<span><a href="about.html">About</a></span> |
+<span><a href="contact.html">Contact Us</a></span>
+</div>
+<!-- Top Navigation Menu -->
+<div class="topnav">
+  <div class="container" onclick="hamFunction(this)">
+    <div class="bar1"></div>
+    <div class="bar2"></div>
+    <div class="bar3"></div>
+  </div>
+  <div id="myLinks">
+    <a href="index.html">Home</a>
+    <a href="santali.html">Santali</a>
+    <a href="english.html">English</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+</div>
+</header>
+    <h2 class="tophead">Contact Us</h2>
+    <div>
+      <h4 style="background-color: yellow; 
+      color: red; width: 93%; text-align: center; 
+      padding: 7px; border-start-end-radius: 25px;
+    border-end-start-radius: 25px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border: solid red 1px; margin: auto;">We Built Santali Dictionary To Solve Your Problem</h4>
+      <p class="pdescribe">We are humans. We know everyone has questions and wants to ask and speak. So we always give our earliest priorities to our members/visitors suggestions and do our best to solve your queries.</p>
+    <p class="pdescribe">Reach us undoubtedly for prompt and efficient assistance. We are committed to providing the fastest and most reliable responses to your inquiries.</p>
+    </div>
+  <br>
+    <div>
+      <h4 style="background-color: yellow; color: red; width: 93%; text-align: center; padding: 7px; border-start-start-radius: 25px;
+  border-end-end-radius: 25px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border: solid red 1px; margin: auto;">Share Your Thoughts With Us</h4>
+       <form id="emailForm">
+   <label for="name" class="contactForm">Full Name :</label>
+        <input type="text" id="name" name="name" class="contactForm" required><br>
+        
+        <label for="from" class="contactForm">Your Email:</label>
+        <input type="email" id="email" name="email" class="contactForm" required><br>
+
+        <label for="subject" class="contactForm">Subject:</label>
+        <input type="text" id="subject" name="subject" class="contactForm"><br>
+
+        <label for="message" class="contactForm">Message:</label>
+        <textarea id="message" name="message" class="contactForm" required></textarea><br>
+
+        <button type="submit" onclick="sendEmail(event)" class="contactForm" id="contactbtn">Send Email</button>
+    </form>
+    </div>
+    <br>
+    <footer><div class="footerdiv">© Santali Dictionary 2024 · All Rights Reserved · Kailash Murmu</div></footer>
+    <script src="main.js"></script>
+    <script src="contact.js"></script>
+  </body>
+</html>

@@ -1,0 +1,200 @@
+[
+    {
+        "id" : 1,
+        "term" : "A",
+        "audio" : "/assets/english/audio/A.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "Mit, mittec, mitten, mittan.",
+        "image" : "/assets/english/image/A cow.jpg",
+        "example" : "A cow."
+    },
+    {
+        "id" : 2,
+        "term" : "Aback",
+        "audio" : "/assets/english/audio/Aback.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "TO BE TAKEN : Haka caka.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "He was abacked by the rain from going out of his house."
+    },
+    {
+        "id" : 3,
+        "term" : "Abandon",
+        "audio" : "/assets/english/audio/Abandon.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "To : Bagi, pac, teag.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "Abondon me."
+    },
+    {
+        "id" : 4,
+        "term" : "Abandoned",
+        "audio" : "/assets/english/audio/Abandoned.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "TO BE : Bhodor.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "Everyone abondoned me."
+    },
+    {
+        "id" : 5,
+        "term" : "Abated",
+        "audio" : "/assets/english/audio/Abated.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "Hin.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "He was abated."
+    },
+    {
+        "id" : 6,
+        "term" : "Abatement",
+        "audio" : "/assets/english/audio/Abatement.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "Ghati.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "That was an abatement."
+    },
+    {
+        "id" : 7,
+        "term" : "Abdicate",
+        "audio" : "/assets/english/audio/Abdicate.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "TO : Teag.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "I abdicate everything."
+    },
+    {
+        "id" : 8,
+        "term" : "Abdomen",
+        "audio" : "/assets/english/audio/Abdomen.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "THE : Lac.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "My abdomen is slim."
+    },
+    {
+        "id" : 9,
+        "term" : "Aberrant",
+        "audio" : "/assets/english/audio/Aberrant.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "Apa baria, aprár.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "He is very aberrant."
+    },
+    {
+        "id" : 10,
+        "term" : "Abge bonga",
+        "audio" : "/assets/english/audio/Abge-bonga.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "PLACE FOR WORSHIP OF : Kulkhi.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "There is an abge bonga in the village."
+    },
+    {
+        "id" : 11,
+        "term" : "Abhor",
+        "audio" : "/assets/english/audio/Abhor.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "TO : Hirkha.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "Do not abhor it."
+    },
+        {
+        "id" : 110,
+        "term" : "Babble",
+        "audio" : "/assets/english/audio/Babble.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "TO : Bakhnao, bokbok, khodor(2).",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "The baby babbles all the time."
+    },
+  {
+        "id" : 111,
+        "term" : "Babbler",
+        "audio" : "/assets/english/audio/Babbler.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "A : Cauchal.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "He is a babbler."
+    },
+  {
+        "id" : 112,
+        "term" : "Baboon",
+        "audio" : "/assets/english/audio/Baboon.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "A SPECIES OF : Birsindic.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "The baboon is eating."
+    },
+  {
+        "id" : 113,
+        "term" : "Baby",
+        "audio" : "/assets/english/audio/Baby.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "A : Bale betkec, bale gidra.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "The baby is two years old."
+    },
+  {
+        "id" : 114,
+        "term" : "Bachelor",
+        "audio" : "/assets/english/audio/Bachelor.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "A : Dangua kora. (an old) arharo barharo.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "The bachelors are playing football."
+    },
+    {
+        "id" : 115,
+        "term" : "Bachelorhood",
+        "audio" : "/assets/english/audio/Bachelorhood.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "Dangua, dingą, dangua.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "This my bachelorhood."
+    },
+    {
+        "id" : 116,
+        "term" : "Back",
+        "audio" : "/assets/english/audio/Back.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "THE : Dea, sambir; (to bend) kojo; (to arch) kutkuțuč ; (to carry on) gugu; (to turn on) sara; (to turn) dea, thot; (on) sạmbir; (of the hand) lulha.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "His back is very strong."
+    },
+    {
+        "id" : 117,
+        "term" : "Back",
+        "audio" : "/assets/english/audio/Backed.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "(to give) Adại, em ruar, phirau, phirot ; (to turn) eikić, lautau; (too far-of a load) pachil, pichạr; (of house, etc.) kudam; (part, the) pachil; (ground, to put in) khot.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "I gave him his pen back."
+    },
+    {
+        "id" : 118,
+        "term" : "Backbite",
+        "audio" : "/assets/english/audio/Backbite.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "TO : Cugli, phecan, sula; (given to) cuglią.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "He was backbited."
+    },
+    {
+        "id" : 119,
+        "term" : "Backbone",
+        "audio" : "/assets/english/audio/Backbone.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "THE : Bisi jan.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "He says, his backbone hurts."
+    },
+    {
+        "id" : 120,
+        "term" : "Backwards",
+        "audio" : "/assets/english/audio/Backwards.mp3",
+        "video" : "/assets/other/example.mp4",
+        "meaning" : "Cikić, pachlą, sirgạt, tae nom sec; (to go) cudi, pạchlą, pạcok; (and forwards) acur bihur, ulți pulți ; (to walk) tahlao.",
+        "image" : "/assets/other/vinayagar-png-images.png",
+        "example" : "The man turned backwards."
+    }
+    ]

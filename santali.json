@@ -1,0 +1,199 @@
+[{
+  "id" : 1,
+  "term": "A",
+  "audio" : "/assets/santali/audio/A.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "A privative prefix much used in Santali, signifying not, without.",
+  "image": "/assets/santali/image/adhorom.jpg",
+  "example": "A-dhorom, a-lekha."
+},
+{
+  "id" : 2,
+  "term": "A",
+  "audio" : "/assets/santali/audio/Aa.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "A prefix with causative signification.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "A-nu, a-jo, a-sen."
+},
+{
+  "id" : 3,
+  "term": "A",
+  "audio" : "/assets/santali/audio/Aaa.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Yes.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "A unagi huyuaa."
+},
+{
+  "id" : 4,
+  "term": "A a",
+  "audio" : "/assets/santali/audio/Aaaa.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Grunt of buffalo.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "- NA -"
+},
+{
+  "id" : 5,
+  "term": "Abad",
+  "audio" : "/assets/santali/audio/Abad.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Cultivation, harvest.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Abad dare. Tree yielding preduce."
+},
+{
+  "id" : 6,
+  "term": "Abar",
+  "audio" : "/assets/santali/audio/Abar.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "To cry peevishly for some thing, as a child.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Cete abarkeda? What does he want?"
+},
+{
+  "id" : 7,
+  "term": "Abe tabe",
+  "audio" : "/assets/santali/audio/Abe tabe.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Just at the time of.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Abe tabe saimrak. Juat about cock-crow. Abe tabeakanae. He is at the point of death."
+},
+{
+  "id" : 8,
+  "term": "Aben",
+  "audio" : "/assets/santali/audio/Aben.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "You two. There is also a curious use of the dual, when only one person is in question. A man and his wife use the dual to their respective fathers-in-law, mothers-in-law, elder brothers-in-law, and sisters-in-law, and vice versa, e.g. A man will say to his father-in-law Calakben, instead of Calak-me. Cf. abo for curious use of the plural.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "- NA -"
+},
+{
+  "id" : 9,
+  "term": "Aber",
+  "audio" : "/assets/santali/audio/Aber.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Out of season, late, behind hand.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "- NA -"
+},
+{
+  "id" : 10,
+  "term": "Abga",
+  "audio" : "/assets/santali/audio/Abga.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Almost all, the greater part, with few exceptions.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Nunahkin kamiketreho abga petec odonena. Although I have laboured so much little else than chaff is the result. Noa chaole do abga dhurigea. This rice is nearly all dust. Noko hor abga kombro kanako. The majority of them are thieves. Abga taka menaktaea. He has more rupees (than paisa). Abga horge menahkoa. Santals are in the majority (in this village)."
+},
+{
+  "id" : 11,
+  "term": "Abge",
+  "audio" : "/assets/santali/audio/Abge.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "(1) Sacred to the males of the household. (2) Stingy, selfish.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Abge bonga. One of the Santal family deities, virtually the deity of the males of the family, as they only can partake of what has been offered to it in sacrifice. Nui bhedan abgeakadea. I have set this ram apart as a sacrifice for the males of the house-hold. Amem jom abgekeda. You ate most of it yourself, (as if it had been an abge offering.)"
+},
+{
+  "id" : 110,
+  "term": "Ba / Baba",
+  "audio" : "/assets/santali/audio/Ba.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Father.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "In baba Heh nai."
+},
+{
+  "id" : 111,
+  "term": "Ba / Ban",
+  "audio" : "/assets/santali/audio/Ban.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "No, not.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Bale calalfa. Wo will not go."
+},
+{
+  "id" : 112,
+  "term": "Bab",
+  "audio" : "/assets/santali/audio/Bab.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "A cess imposed by Zemindars on their ryots.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Bab emoh huyuh tina."
+},
+{
+  "id" : 113,
+  "term": "Bab",
+  "audio" : "/assets/santali/audio/Baab.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "To demand, to exact, to ask for, to request, to impose a contribution.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Onkae bab baraakoa. In that way he makes his demand. Manjhi toae babakoa. The village chief exacts milk from them. Taka emoh lagit'e babakawatlea. He has asked us to give money."
+},
+{
+  "id" : 114,
+  "term": "Baba",
+  "audio" : "/assets/santali/audio/Baba.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "(1) Father ; (2) A term of respect applied to elders, a term of endearment applied to infants.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Babare / Baba go - An interjection implying pain or sorrow. E baba. Respectful address. Henda baba. RespectfuUy calling attention."
+},
+{
+  "id" : 115,
+  "term": "Babac",
+  "audio" : "/assets/santali/audio/Babac.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "To store, to lay by, to keep shut up, to put in a safe place.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Bolo baeakanae. He is hiding inside."
+},
+{
+  "id" : 116,
+  "term": "Babad",
+  "audio" : "/assets/santali/audio/Babad.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "To name, to guess, to accuse, to suspect, to accuse from ill will, or a desire to injure.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Almarire cet mena aa? Kichrihkin badeda. What is in the almirah ? I guess it is cloth. Danko badkoa. They accuse them of being witches. Bad badkadea, menkhan bako sap dareadea. They often accused (or suspected) him, but have not been able to catch him. Badteko metalikana. They accuse me through ill will."
+},
+{
+  "id" : 117,
+  "term": "Babaj",
+  "audio" : "/assets/santali/audio/Babaj.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "To interlace, to cross, to plait, to entangle, to set a fish trap; a trap, difficulty ; ravelled, confused.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Jangae bajkeda. He crossed his legs. Hako bajreko jhalietkoa. They catch fish in a trap. Tikin bajakata. They have linked their arms."
+},
+{
+  "id" : 118,
+  "term": "Babaji",
+  "audio" : "/assets/santali/audio/Babaji.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Babaji. A class of Hindu fakirs, a Hindu sadhu.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Babaji hijuh kanae."
+},
+{
+  "id" : 119,
+  "term": "Babak",
+  "audio" : "/assets/santali/audio/Babak.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "To hook on, to hang on a hook, to catch on a thorn, &c.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Janumte bakenae. He is caught by a thorn. Menem bagoka. Look out, you'll be caught (by a thorn.)"
+},
+{
+  "id" : 120,
+  "term": "Babar",
+  "audio" : "/assets/santali/audio/Babar.mp3",
+  "video" : "/assets/other/example.mp4",
+  "meaning": "Two.",
+  "image": "/assets/other/vinayagar-png-images.png",
+  "example": "Babar goten engatkin tahenkhan kakit engat do bar taka iral anae nama. If there are two mothers the step mother, (or co-wife) receives two rupees eight annas."
+}
+]
